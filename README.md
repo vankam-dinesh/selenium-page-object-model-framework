@@ -4,7 +4,7 @@ Created by Adrian Maciuc - https://www.martioli.com - showcases a framework buil
 
 ## 📝 Overview
 
-This project includes:
+This project includes:                                       
 
 1️⃣ Tests for the web application                   
                                                                                                        
