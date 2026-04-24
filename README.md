@@ -7,7 +7,7 @@ Created by Adrian Maciuc - https://www.martioli.com - showcases a framework buil
 This project includes:
 
 1️⃣ Tests for the web application
-                                                                        
+                                                                                                       
 2️⃣ Integration with version control using Git
 
 3️⃣ Page Object Model (POM) design pattern for improved maintainability and readability
